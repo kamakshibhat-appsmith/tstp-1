@@ -7,8 +7,7 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
-      "myFun1": "[]",
-      "myFun2": "[]"
+      "myFun1": "[\"1\",\"2\"]"
     },
     "moduleInputs": {
       "bpkjwtcvta": {},
@@ -16,6 +15,6 @@
     },
     "name": "JSModule11",
     "pageId": "Page1",
-    "version": "0.0.2"
+    "version": "0.0.3"
   }
 }
